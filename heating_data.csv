@@ -42,8 +42,18 @@ month,year,days,use,mean_temp,owner,energy_remodel
 5,2014,28,89,39,Thompson,before
 6,2014,34,34,51,Thompson,before
 7,2014,29,30,55,Thompson,before
-8,2014,29,23,59,Thompson,after
-9,2014,33,32,57,Thompson,after
-10,2014,29,45,48,Thompson,after
-11,2014,29,110,33,Thompson,after
-12,2014,33,147,30,Thompson,after
+8,2014,29,23,59,Thompson,after foam board and blown fiber
+9,2014,33,32,57,Thompson,after foam board and blown fiber
+10,2014,29,45,48,Thompson,after foam board and blown fiber
+11,2014,29,110,33,Thompson,after foam board and blown fiber
+12,2014,33,147,30,Thompson,after foam board and blown fiber
+1,2015,42,227,29,Thompson,after foam board and blown fiber
+2,2015,26,171,14,Thompson,after foam board and blown fiber
+3,2015,28,120,30,Thompson,after foam board and blown fiber
+4,2015,28,114,28,Thompson,after foam board and blown fiber
+5,2015,35,69,42,Thompson,after foam board and blown fiber
+6,2015,28,21,52,Thompson,after foam board and blown fiber
+7,2015,29,21,60,Thompson,after foam board and blown fiber
+8,2015,34,23,60,Thompson,after foam board and blown fiber
+9,2015,25,16,54,Thompson,after foam board and blown fiber
+10,2015,38,67,44,Thompson,after foam board and blown fiber
